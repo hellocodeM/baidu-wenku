@@ -20,3 +20,4 @@ $(".ft").remove();
 $("#ft").remove();
 $("#docBubble").remove();
 $("body").attr("margin", "auto");
+$(".banner-wrap").remove();
