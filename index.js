@@ -28,4 +28,5 @@ $('#pay-page').remove();
 $('.banner-wrap').remove();
 $('#next_doc_box').remove();
 $('.high-quality-doc').remove();
+$('.lastcell-dialog').remove();
 $("body").attr("margin", "auto");
