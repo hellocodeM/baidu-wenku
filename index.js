@@ -1,6 +1,7 @@
 // ==UserScript==
 // @name         百度文库 文档打印
 // @namespace    http://github.com/HelloCodeMing/baidu-wenku
+// @require      https://raw.githubusercontent.com/HelloCodeMing/baidu-wenku/master/index.js
 // @version      0.1
 // @description  enter something useful
 // @author       wanghuanming
@@ -28,4 +29,5 @@ $('#pay-page').remove();
 $('.banner-wrap').remove();
 $('#next_doc_box').remove();
 $('.high-quality-doc').remove();
+$('.new-ico-wkmember-free-doc').remove();
 $("body").attr("margin", "auto");
