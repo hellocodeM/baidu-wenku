@@ -31,3 +31,4 @@ $('#next_doc_box').remove();
 $('.high-quality-doc').remove();
 $('.new-ico-wkmember-free-doc').remove();
 $("body").attr("margin", "auto");
+$(".bd").attr("style", "height:1262.879px");
