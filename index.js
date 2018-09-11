@@ -32,5 +32,6 @@ $('.high-quality-doc').remove();
 $('.new-ico-wkmember-free-doc').remove();
 $('.doc-tag-pay-normal').remove();
 $('.doc-tag-professional').remove();
+$('.doc-tag-pay-discount').remove();
 $("body").attr("margin", "auto");
 $(".bd").attr("style", "height:1262.879px");
