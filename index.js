@@ -9,6 +9,7 @@
 // @grant        none
 // ==/UserScript==
 
+$('.goBtn').click();
 $(".aside").remove();
 $("#doc #hd").remove();
 $(".crubms-wrap").remove();
