@@ -39,4 +39,4 @@ $("body").attr("margin", "auto");
 $(".bd").attr("style", "height:1262.879px");
 jQuery.fn.extend({remove: function(){return false;}});
 var _h = document.body.scrollHeight, _tmp=0;
-var _t = window.setInterval(function(){$(window).scrollTop(_tmp);_tmp=_tmp+1000;if (_tmp>_h) window.clearInterval(_t)}, 300);
+var _t = window.setInterval(function(){$(window).scrollTop(_tmp);_tmp=_tmp+700;if (_tmp>_h) {window.clearInterval(_t);window.setTimeout(function(){window.print();}, 3000)}}, 300);
