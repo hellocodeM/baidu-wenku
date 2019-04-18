@@ -35,6 +35,7 @@ $('.doc-tag-pay-normal').remove();
 $('.doc-tag-professional').remove();
 $('.doc-tag-pay-discount').remove();
 $('.doc-tag-ticket').remove();
+$('.reader-back2top-wrap').remove();
 $("body").attr("margin", "auto");
 $(".bd").attr("style", "height:1262.879px");
 $('.reader-page').css({
