@@ -1,1 +1,1 @@
-Print baidu wenku documents for free.
+去掉百度文库的浮动广告、冗余元素，使得整个页面可以用Ctrl P来打印出pdf
